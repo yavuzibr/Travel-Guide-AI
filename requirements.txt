@@ -1,0 +1,7 @@
+groq
+streamlit
+ultralytics
+torch
+transformers
+Pillow
+python-dotenv
